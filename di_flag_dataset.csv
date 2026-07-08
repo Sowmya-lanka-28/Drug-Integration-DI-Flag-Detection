@@ -1,0 +1,31 @@
+description,di_flag
+patient prescribed warfarin with aspirin which may cause bleeding risk,1
+patient taking paracetamol for mild fever,0
+drug interaction between ibuprofen and anticoagulant detected,1
+patient complains about headache and dizziness,0
+patient using warfarin along with clopidogrel,1
+routine blood pressure checkup performed,0
+co administration of aspirin and ibuprofen may increase bleeding risk,1
+patient diagnosed with seasonal flu and prescribed rest,0
+simultaneous use of warfarin and heparin detected,1
+patient prescribed vitamin c supplements,0
+interaction possible between erythromycin and statins,1
+patient suffering from mild cold and cough,0
+use of ketoconazole with statins increases toxicity risk,1
+patient reports stomach pain after eating spicy food,0
+drug interaction between rifampin and oral contraceptives detected,1
+patient prescribed antibiotics for throat infection,0
+interaction between digoxin and verapamil observed,1
+patient complaining about fatigue and weakness,0
+combination of tramadol and antidepressants may cause serotonin syndrome,1
+patient advised to drink more water and rest,0
+patient using aspirin and warfarin together,1
+patient diagnosed with mild allergy,0
+simultaneous administration of lithium and diuretics detected,1
+patient taking multivitamins regularly,0
+interaction between clarithromycin and statins found,1
+patient experiencing mild fever after vaccination,0
+co administration of theophylline and ciprofloxacin detected,1
+patient prescribed cough syrup for dry cough,0
+drug interaction between amiodarone and warfarin detected,1
+patient reports muscle pain after exercise,0
