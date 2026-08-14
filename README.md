@@ -1,4 +1,4 @@
-# 🚩 DI Flag Detection using Natural Language Processing
+# 🚩 Drug Integration (DI) Flag Detection
 
 ## 📖 Project Overview
 
